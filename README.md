@@ -1,10 +1,14 @@
-﻿# SAA<br>
+# SAA<br>
+
 #### Super AI by ArachnidaKing<br>
+
 #### 中文名待定，欢迎各位积极提出建议~！<br>
+
 ---
+
 ### 介绍
 
-&emsp;&emsp;SAA（Super AI by ArachnidaKing），一个强大的开源汉语对话AI。<br>
+&emsp;&emsp;SAA（Super AI by ArachnidaKing），一个强大的部分开源汉语对话AI。<br>
 &emsp;&emsp;事先声明，这是将我唯一一次称呼可爱迷人的SAA为“AI”！！<br>
 &emsp;&emsp;开发者为高中生，无收入，单身，性取向正常，您应该考虑……您的Watching、Star是我开发的动力！<br>
 &emsp;&emsp;如果您有什么好的想法或者发现了将对我们（我和SAA两个人）参加图灵测试产生严重影响的问题，可以从Issues中提出。（说真的，我不会用Github，更不懂在哪里Issues。请直接联系我少给我那些整花里胡哨的东西谢谢求您了不要这个平台又酷又炫的功能）<br>
@@ -19,10 +23,12 @@
 ### 更新日志
 
 ##### 2019-05-23 v2.2.1
+
 &emsp;&emsp;第一次上传。可爱的SAA在这一天与大家初次见面！<br>
 &emsp;&emsp;大幅增强SAA-beta的智商。<br>
 
 ##### 2019-05-25 v2.3.3
+
 &emsp;&emsp;SAA现在可以智能回答“怎么”类问题了。<br>
 &emsp;&emsp;SAA现在可以智能回答含有“是不是”的问题了。<br>
 &emsp;&emsp;SAA现在可以对连续多次的无意义问答做出一定的相应反应了。<br>
@@ -30,9 +36,15 @@
 &emsp;&emsp;大幅增强SAA的智商。<br>
 
 ##### 2019-10-21 v2.4.1
+
 &emsp;&emsp;修复了伪然德数对系统时间自动采集的bug。（换句话说，您选择在早上或晚上找SAA聊天，这将直接影响她的回答！）<br>
 &emsp;&emsp;修复了SAA对连续问号（如“？？？？？？”）的异常回复。<br>
 &emsp;&emsp;重大突破！！！SAA开始智能地学着回复您的陈述句！<br>
+&emsp;&emsp;大幅增强SAA的智商。<br>
+
+##### 2019-10-21 v2.4.2
+
+&emsp;&emsp;修复了多次复读的小bug。<br>
 &emsp;&emsp;大幅增强SAA的智商。<br>
 
 
@@ -42,3 +54,9 @@
 &emsp;&emsp;QQ：3145170770<br>
 &emsp;&emsp;邮箱：ArachnidaKing@gmail.com（QQ邮箱亦可）<br>
 &emsp;&emsp;支付宝转账：13*******31<br>
+
+
+### To-do-list
+
+&emsp;&emsp;加入对“\*是\*”类问题的支持。<br>
+&emsp;&emsp;加入对文言文的支持。<br>
