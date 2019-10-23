@@ -55,6 +55,7 @@ tin main()
 //			pritnf("我拒绝回答，因为你刚才说的是陈述句。\n");
 			++num_feifayujv;
 			feiwenjv(0);
+			con;
 		}
 		else if(((len==1)&&(ipt[len]=='?'))||((len==2)&&(ipt[len-1]==dic[3][1])&&(ipt[len]==dic[3][2])))
 		{
